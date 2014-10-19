@@ -1,0 +1,10 @@
+C:\Users\gu425d\AppData\Local\Temporary Projects\22ListPrimes\bin\Debug\22ListPrimes.exe
+C:\Users\gu425d\AppData\Local\Temporary Projects\22ListPrimes\bin\Debug\22ListPrimes.pdb
+C:\Users\gu425d\AppData\Local\Temporary Projects\22ListPrimes\obj\x86\Debug\22ListPrimes.exe
+C:\Users\gu425d\AppData\Local\Temporary Projects\22ListPrimes\obj\x86\Debug\22ListPrimes.pdb
+C:\Users\gu425d\Desktop\Other\C# Practice\Top 30 Programing Interview Questions\22ListPrimes\22ListPrimes\obj\x86\Debug\22ListPrimes.exe
+C:\Users\gu425d\Desktop\Other\C# Practice\Top 30 Programing Interview Questions\22ListPrimes\22ListPrimes\obj\x86\Debug\22ListPrimes.pdb
+C:\Users\GARRET\Documents\GitHub\22ListPrimes\22ListPrimes\obj\x86\Debug\22ListPrimes.exe
+C:\Users\GARRET\Documents\GitHub\22ListPrimes\22ListPrimes\obj\x86\Debug\22ListPrimes.pdb
+C:\Users\GARRET\Documents\GitHub\22ListPrimes\22ListPrimes\bin\Debug\22ListPrimes.exe
+C:\Users\GARRET\Documents\GitHub\22ListPrimes\22ListPrimes\bin\Debug\22ListPrimes.pdb
